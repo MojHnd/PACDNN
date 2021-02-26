@@ -1,2 +1,2 @@
 # PACDNN
-Coming soon ...
+Code and demos will be available soon.
